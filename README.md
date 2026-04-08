@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jahul Khan
+# Hi  I'm Jahul Khan
 
 🎓 B.Tech CSE Student  
 📊 Aspiring Data Analyst | Machine Learning Enthusiast  
