@@ -29,11 +29,4 @@ Short description of your project.
 4. Visualization
 5. Model Building (if ML project)
 
-## 📸 Screenshots
-(Add dashboard or output images here)
 
-## ⚙️ Installation
-```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
-pip install -r requirements.txt
